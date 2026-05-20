@@ -1,6 +1,4 @@
 <img width="1280" height="640" alt="test" src="https://github.com/user-attachments/assets/86f2eeaa-d115-4954-a62a-0d373cbfd880" />
-Hi
-
 <!--
 **Oussama-Ait-Youss/Oussama-Ait-Youss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
